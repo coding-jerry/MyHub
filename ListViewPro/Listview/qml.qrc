@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>common_controls/TrasnArea.qml</file>
+    </qresource>
+</RCC>
