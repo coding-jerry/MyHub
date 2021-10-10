@@ -1,0 +1,54 @@
+name: ios-macos-11_0
+on: 
+  # push代码时触发workflow
+  push:
+    paths:
+      - '3rdparty/**'
+      - 'examples/**'
+      - 'mkspecs/**'
+      - 'src/**'
+      - '.qmake.conf'
+      - 'TaoQuick.pro'
+      - '.github/workflows/ios-macos-11_0.yml'
+  # pull_request时触发workflow
+  pull_request:
+    paths:
+      - '3rdparty/**'
+      - 'examples/**'
+      - 'mkspecs/**'
+      - 'src/**'
+      - '.qmake.conf'
+      - 'TaoQuick.pro'
+      - '.github/workflows/ios-macos-11_0.yml' 
+jobs:
+  build:
+    name: Build
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [macos-11.0]
+        qt_ver: [5.12.10,5.15.2]
+        qt_target: [ios]
+    steps:
+      - name: prepare env
+        run: |
+          softwareupdate --all --install --force
+          sudo xcode-select --switch /Library/Developer/CommandLineTools 
+               
+      - name: Install Qt
+        # if: steps.cacheqt.outputs.cache-hit != 'true'
+        uses: jurplel/install-qt-action@v2.10.0
+        with:
+          # Version of Qt to install
+          version: ${{ matrix.qt_ver }}
+          # Target platform for build
+          target: ${{ matrix.qt_target }}
+         
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 1
+          submodules: 'true'
+      - name: build ios
+        run: |
+          qmake -r -spec macx-ios-clang CONFIG+=release CONFIG+=iphoneos
+          make
