@@ -1,0 +1,530 @@
+07.02.2021 09:22:07.541 0 DEBUG     TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+07.02.2021 09:22:07.541 0 DEBUG     TemplateCache: timeout=60000, size=1000000
+07.02.2021 09:22:07.541 0 DEBUG     HttpSessionStore: Sessions expire after 3600000 milliseconds
+07.02.2021 09:22:07.541 0 DEBUG     StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+07.02.2021 09:22:07.541 0 DEBUG     StaticFileController: cache timeout=60000, size=1000000
+07.02.2021 09:22:07.541 0 DEBUG     RequestMapper: created
+07.02.2021 09:22:07.580 0 DEBUG     HttpListener: Listening on port 8080
+07.02.2021 09:22:07.580 1 WARNING   Application has started
+07.02.2021 09:22:54.416 0 DEBUG     TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+07.02.2021 09:22:54.416 0 DEBUG     TemplateCache: timeout=60000, size=1000000
+07.02.2021 09:22:54.416 0 DEBUG     HttpSessionStore: Sessions expire after 3600000 milliseconds
+07.02.2021 09:22:54.416 0 DEBUG     StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+07.02.2021 09:22:54.416 0 DEBUG     StaticFileController: cache timeout=60000, size=1000000
+07.02.2021 09:22:54.416 0 DEBUG     RequestMapper: created
+07.02.2021 09:22:54.416 0 DEBUG     HttpListener: Listening on port 8080
+07.02.2021 09:22:54.416 1 WARNING   Application has started
+07.02.2021 10:03:52.363 0 DEBUG     TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+07.02.2021 10:03:52.363 0 DEBUG     TemplateCache: timeout=60000, size=1000000
+07.02.2021 10:03:52.363 0 DEBUG     HttpSessionStore: Sessions expire after 3600000 milliseconds
+07.02.2021 10:03:52.363 0 DEBUG     StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+07.02.2021 10:03:52.363 0 DEBUG     StaticFileController: cache timeout=60000, size=1000000
+07.02.2021 10:03:52.363 0 DEBUG     RequestMapper: created
+07.02.2021 10:03:52.364 0 DEBUG     HttpListener: Listening on port 8080
+07.02.2021 10:03:52.364 1 WARNING   Application has started
+07.02.2021 10:07:36.300 0 DEBUG     TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+07.02.2021 10:07:36.300 0 DEBUG     TemplateCache: timeout=60000, size=1000000
+07.02.2021 10:07:36.300 0 DEBUG     HttpSessionStore: Sessions expire after 3600000 milliseconds
+07.02.2021 10:07:36.300 0 DEBUG     StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+07.02.2021 10:07:36.300 0 DEBUG     StaticFileController: cache timeout=60000, size=1000000
+07.02.2021 10:07:36.300 0 DEBUG     RequestMapper: created
+07.02.2021 10:07:36.301 0 DEBUG     HttpListener: Listening on port 8080
+07.02.2021 10:07:36.301 1 WARNING   Application has started
+07.02.2021 10:09:20.738 0 DEBUG     TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+07.02.2021 10:09:20.738 0 DEBUG     TemplateCache: timeout=60000, size=1000000
+07.02.2021 10:09:20.738 0 DEBUG     HttpSessionStore: Sessions expire after 3600000 milliseconds
+07.02.2021 10:09:20.738 0 DEBUG     StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+07.02.2021 10:09:20.738 0 DEBUG     StaticFileController: cache timeout=60000, size=1000000
+07.02.2021 10:09:20.738 0 DEBUG     RequestMapper: created
+07.02.2021 10:09:20.738 0 DEBUG     HttpListener: Listening on port 8080
+07.02.2021 10:09:20.738 1 WARNING   Application has started
+08.03.2021 17:31:19.438 0 DEBUG    0x7fd32bf62440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+08.03.2021 17:31:19.438 0 DEBUG    0x7fd32bf62440 TemplateCache: timeout=60000, size=1000000
+08.03.2021 17:31:19.438 0 DEBUG    0x7fd32bf62440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+08.03.2021 17:31:19.438 0 DEBUG    0x7fd32bf62440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+08.03.2021 17:31:19.438 0 DEBUG    0x7fd32bf62440 StaticFileController: cache timeout=60000, size=1000000
+08.03.2021 17:31:19.438 0 DEBUG    0x7fd32bf62440 RequestMapper: created
+08.03.2021 17:31:19.477 0 DEBUG    0x7fd32bf62440 HttpListener: Listening on port 8080
+08.03.2021 17:31:19.477 1 WARNING  0x7fd32bf62440 Application has started
+08.03.2021 17:31:30.769 0 DEBUG    0x7fdfee2e1440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+08.03.2021 17:31:30.769 0 DEBUG    0x7fdfee2e1440 TemplateCache: timeout=60000, size=1000000
+08.03.2021 17:31:30.769 0 DEBUG    0x7fdfee2e1440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+08.03.2021 17:31:30.769 0 DEBUG    0x7fdfee2e1440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+08.03.2021 17:31:30.769 0 DEBUG    0x7fdfee2e1440 StaticFileController: cache timeout=60000, size=1000000
+08.03.2021 17:31:30.769 0 DEBUG    0x7fdfee2e1440 RequestMapper: created
+08.03.2021 17:31:30.769 2 CRITICAL 0x7fdfee2e1440 HttpListener: Cannot bind on port 8080: The bound address is already in use
+08.03.2021 17:31:30.769 1 WARNING  0x7fdfee2e1440 Application has started
+08.03.2021 17:33:38.906 0 DEBUG    0x7fc7599007c0 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+08.03.2021 17:33:38.906 0 DEBUG    0x7fc7599007c0 TemplateCache: timeout=60000, size=1000000
+08.03.2021 17:33:38.907 0 DEBUG    0x7fc7599007c0 HttpSessionStore: Sessions expire after 3600000 milliseconds
+08.03.2021 17:33:38.907 0 DEBUG    0x7fc7599007c0 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+08.03.2021 17:33:38.907 0 DEBUG    0x7fc7599007c0 StaticFileController: cache timeout=60000, size=1000000
+08.03.2021 17:33:38.907 0 DEBUG    0x7fc7599007c0 RequestMapper: created
+08.03.2021 17:33:38.938 0 DEBUG    0x7fc7599007c0 HttpListener: Listening on port 8080
+08.03.2021 17:33:38.938 1 WARNING  0x7fc7599007c0 Application has started
+09.03.2021 19:17:24.441 0 DEBUG    0x7fafd8c547c0 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+09.03.2021 19:17:24.441 0 DEBUG    0x7fafd8c547c0 TemplateCache: timeout=60000, size=1000000
+09.03.2021 19:17:24.442 0 DEBUG    0x7fafd8c547c0 HttpSessionStore: Sessions expire after 3600000 milliseconds
+09.03.2021 19:17:24.442 0 DEBUG    0x7fafd8c547c0 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+09.03.2021 19:17:24.442 0 DEBUG    0x7fafd8c547c0 StaticFileController: cache timeout=60000, size=1000000
+09.03.2021 19:17:24.442 0 DEBUG    0x7fafd8c547c0 RequestMapper: created
+09.03.2021 19:17:24.473 0 DEBUG    0x7fafd8c547c0 HttpListener: Listening on port 8080
+09.03.2021 19:17:24.473 1 WARNING  0x7fafd8c547c0 Application has started
+09.03.2021 19:18:37.050 0 DEBUG    0x7f17a6c207c0 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+09.03.2021 19:18:37.050 0 DEBUG    0x7f17a6c207c0 TemplateCache: timeout=60000, size=1000000
+09.03.2021 19:18:37.050 0 DEBUG    0x7f17a6c207c0 HttpSessionStore: Sessions expire after 3600000 milliseconds
+09.03.2021 19:18:37.050 0 DEBUG    0x7f17a6c207c0 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+09.03.2021 19:18:37.050 0 DEBUG    0x7f17a6c207c0 StaticFileController: cache timeout=60000, size=1000000
+09.03.2021 19:18:37.051 0 DEBUG    0x7f17a6c207c0 RequestMapper: created
+09.03.2021 19:18:37.051 0 DEBUG    0x7f17a6c207c0 HttpListener: Listening on port 8080
+09.03.2021 19:18:37.051 1 WARNING  0x7f17a6c207c0 Application has started
+09.03.2021 19:19:10.789 0 DEBUG    0x7f2368ce5440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+09.03.2021 19:19:10.789 0 DEBUG    0x7f2368ce5440 TemplateCache: timeout=60000, size=1000000
+09.03.2021 19:19:10.789 0 DEBUG    0x7f2368ce5440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+09.03.2021 19:19:10.789 0 DEBUG    0x7f2368ce5440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+09.03.2021 19:19:10.789 0 DEBUG    0x7f2368ce5440 StaticFileController: cache timeout=60000, size=1000000
+09.03.2021 19:19:10.789 0 DEBUG    0x7f2368ce5440 RequestMapper: created
+09.03.2021 19:19:10.828 0 DEBUG    0x7f2368ce5440 HttpListener: Listening on port 8080
+09.03.2021 19:19:10.828 1 WARNING  0x7f2368ce5440 Application has started
+21.03.2021 09:01:45.437 0 DEBUG    0x7f94f10d1440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:01:45.437 0 DEBUG    0x7f94f10d1440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:01:45.437 0 DEBUG    0x7f94f10d1440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:01:45.437 0 DEBUG    0x7f94f10d1440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:01:45.437 0 DEBUG    0x7f94f10d1440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:01:45.437 0 DEBUG    0x7f94f10d1440 RequestMapper: created
+21.03.2021 09:01:45.476 0 DEBUG    0x7f94f10d1440 HttpListener: Listening on port 8080
+21.03.2021 09:01:45.476 1 WARNING  0x7f94f10d1440 Application has started
+21.03.2021 09:03:09.985 0 DEBUG    0x7f0283153440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:03:09.985 0 DEBUG    0x7f0283153440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:03:09.985 0 DEBUG    0x7f0283153440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:03:09.985 0 DEBUG    0x7f0283153440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:03:09.986 0 DEBUG    0x7f0283153440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:03:09.986 0 DEBUG    0x7f0283153440 RequestMapper: created
+21.03.2021 09:03:09.986 2 CRITICAL 0x7f0283153440 HttpListener: Cannot bind on port 8080: The bound address is already in use
+21.03.2021 09:03:09.986 1 WARNING  0x7f0283153440 Application has started
+21.03.2021 09:03:19.443 0 DEBUG    0x7f2583614440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:03:19.443 0 DEBUG    0x7f2583614440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:03:19.443 0 DEBUG    0x7f2583614440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:03:19.443 0 DEBUG    0x7f2583614440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:03:19.443 0 DEBUG    0x7f2583614440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:03:19.443 0 DEBUG    0x7f2583614440 RequestMapper: created
+21.03.2021 09:03:19.443 0 DEBUG    0x7f2583614440 HttpListener: Listening on port 8080
+21.03.2021 09:03:19.443 1 WARNING  0x7f2583614440 Application has started
+21.03.2021 09:05:52.380 0 DEBUG    0x7fce4408e440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:05:52.380 0 DEBUG    0x7fce4408e440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:05:52.380 0 DEBUG    0x7fce4408e440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:05:52.380 0 DEBUG    0x7fce4408e440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:05:52.380 0 DEBUG    0x7fce4408e440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:05:52.380 0 DEBUG    0x7fce4408e440 RequestMapper: created
+21.03.2021 09:05:52.380 0 DEBUG    0x7fce4408e440 HttpListener: Listening on port 8080
+21.03.2021 09:05:52.380 1 WARNING  0x7fce4408e440 Application has started
+21.03.2021 09:07:52.502 0 DEBUG    0x7ffff495b440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:07:52.502 0 DEBUG    0x7ffff495b440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:07:52.502 0 DEBUG    0x7ffff495b440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:07:52.502 0 DEBUG    0x7ffff495b440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:07:52.502 0 DEBUG    0x7ffff495b440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:07:52.502 0 DEBUG    0x7ffff495b440 RequestMapper: created
+21.03.2021 09:07:52.502 0 DEBUG    0x7ffff495b440 HttpListener: Listening on port 8080
+21.03.2021 09:07:52.502 1 WARNING  0x7ffff495b440 Application has started
+21.03.2021 09:08:20.027 0 DEBUG    0x7ff7f73a9440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:08:20.027 0 DEBUG    0x7ff7f73a9440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:08:20.027 0 DEBUG    0x7ff7f73a9440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:08:20.027 0 DEBUG    0x7ff7f73a9440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:08:20.027 0 DEBUG    0x7ff7f73a9440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:08:20.027 0 DEBUG    0x7ff7f73a9440 RequestMapper: created
+21.03.2021 09:08:20.027 2 CRITICAL 0x7ff7f73a9440 HttpListener: Cannot bind on port 8080: The bound address is already in use
+21.03.2021 09:08:20.027 1 WARNING  0x7ff7f73a9440 Application has started
+21.03.2021 09:08:27.174 0 DEBUG    0x7f4366878440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:08:27.174 0 DEBUG    0x7f4366878440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:08:27.174 0 DEBUG    0x7f4366878440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:08:27.174 0 DEBUG    0x7f4366878440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:08:27.174 0 DEBUG    0x7f4366878440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:08:27.174 0 DEBUG    0x7f4366878440 RequestMapper: created
+21.03.2021 09:08:27.174 2 CRITICAL 0x7f4366878440 HttpListener: Cannot bind on port 8080: The bound address is already in use
+21.03.2021 09:08:27.174 1 WARNING  0x7f4366878440 Application has started
+21.03.2021 09:08:30.642 0 DEBUG    0x7f22f8167440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:08:30.642 0 DEBUG    0x7f22f8167440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:08:30.642 0 DEBUG    0x7f22f8167440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:08:30.642 0 DEBUG    0x7f22f8167440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:08:30.642 0 DEBUG    0x7f22f8167440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:08:30.642 0 DEBUG    0x7f22f8167440 RequestMapper: created
+21.03.2021 09:08:30.642 2 CRITICAL 0x7f22f8167440 HttpListener: Cannot bind on port 8080: The bound address is already in use
+21.03.2021 09:08:31.334 0 DEBUG    0x7f6027a17440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:08:31.334 0 DEBUG    0x7f6027a17440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:08:31.334 0 DEBUG    0x7f6027a17440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:08:31.334 0 DEBUG    0x7f6027a17440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:08:31.334 0 DEBUG    0x7f6027a17440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:08:31.334 0 DEBUG    0x7f6027a17440 RequestMapper: created
+21.03.2021 09:08:31.334 2 CRITICAL 0x7f6027a17440 HttpListener: Cannot bind on port 8080: The bound address is already in use
+21.03.2021 09:08:30.642 1 WARNING  0x7f22f8167440 Application has started
+21.03.2021 09:08:31.334 1 WARNING  0x7f6027a17440 Application has started
+21.03.2021 09:08:48.627 0 DEBUG    0x7f1c6debb440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:08:48.627 0 DEBUG    0x7f1c6debb440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:08:48.627 0 DEBUG    0x7f1c6debb440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:08:48.627 0 DEBUG    0x7f1c6debb440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:08:48.627 0 DEBUG    0x7f1c6debb440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:08:48.627 0 DEBUG    0x7f1c6debb440 RequestMapper: created
+21.03.2021 09:08:48.627 0 DEBUG    0x7f1c6debb440 HttpListener: Listening on port 8080
+21.03.2021 09:08:48.627 1 WARNING  0x7f1c6debb440 Application has started
+21.03.2021 09:11:14.359 0 DEBUG    0x7fac04cb2440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:11:14.360 0 DEBUG    0x7fac04cb2440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:11:14.360 0 DEBUG    0x7fac04cb2440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:11:14.360 0 DEBUG    0x7fac04cb2440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:11:14.360 0 DEBUG    0x7fac04cb2440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:11:14.360 0 DEBUG    0x7fac04cb2440 RequestMapper: created
+21.03.2021 09:11:14.360 2 CRITICAL 0x7fac04cb2440 HttpListener: Cannot bind on port 8080: The bound address is already in use
+21.03.2021 09:11:14.360 1 WARNING  0x7fac04cb2440 Application has started
+21.03.2021 09:11:22.866 0 DEBUG    0x7f8838ed0440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:11:22.866 0 DEBUG    0x7f8838ed0440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:11:22.866 0 DEBUG    0x7f8838ed0440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:11:22.866 0 DEBUG    0x7f8838ed0440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:11:22.866 0 DEBUG    0x7f8838ed0440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:11:22.866 0 DEBUG    0x7f8838ed0440 RequestMapper: created
+21.03.2021 09:11:22.866 0 DEBUG    0x7f8838ed0440 HttpListener: Listening on port 8080
+21.03.2021 09:11:22.866 1 WARNING  0x7f8838ed0440 Application has started
+21.03.2021 09:12:21.050 0 DEBUG    0x7f07e404c440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:12:21.050 0 DEBUG    0x7f07e404c440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:12:21.050 0 DEBUG    0x7f07e404c440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:12:21.050 0 DEBUG    0x7f07e404c440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:12:21.050 0 DEBUG    0x7f07e404c440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:12:21.050 0 DEBUG    0x7f07e404c440 RequestMapper: created
+21.03.2021 09:12:21.050 0 DEBUG    0x7f07e404c440 HttpListener: Listening on port 8080
+21.03.2021 09:12:21.050 1 WARNING  0x7f07e404c440 Application has started
+21.03.2021 09:13:10.279 0 DEBUG    0x7f9c802e0440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:13:10.279 0 DEBUG    0x7f9c802e0440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:13:10.279 0 DEBUG    0x7f9c802e0440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:13:10.279 0 DEBUG    0x7f9c802e0440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:13:10.279 0 DEBUG    0x7f9c802e0440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:13:10.279 0 DEBUG    0x7f9c802e0440 RequestMapper: created
+21.03.2021 09:13:10.279 0 DEBUG    0x7f9c802e0440 HttpListener: Listening on port 8080
+21.03.2021 09:13:10.279 1 WARNING  0x7f9c802e0440 Application has started
+21.03.2021 09:13:40.494 0 DEBUG    0x7fe2d6268440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:13:40.494 0 DEBUG    0x7fe2d6268440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:13:40.494 0 DEBUG    0x7fe2d6268440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:13:40.494 0 DEBUG    0x7fe2d6268440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:13:40.494 0 DEBUG    0x7fe2d6268440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:13:40.494 0 DEBUG    0x7fe2d6268440 RequestMapper: created
+21.03.2021 09:13:40.494 0 DEBUG    0x7fe2d6268440 HttpListener: Listening on port 8080
+21.03.2021 09:13:40.494 1 WARNING  0x7fe2d6268440 Application has started
+21.03.2021 09:17:45.715 0 DEBUG    0x7f38caa68440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:17:45.715 0 DEBUG    0x7f38caa68440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:17:45.715 0 DEBUG    0x7f38caa68440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:17:45.715 0 DEBUG    0x7f38caa68440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:17:45.715 0 DEBUG    0x7f38caa68440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:17:45.715 0 DEBUG    0x7f38caa68440 RequestMapper: created
+21.03.2021 09:17:45.715 0 DEBUG    0x7f38caa68440 HttpListener: Listening on port 8080
+21.03.2021 09:17:45.715 1 WARNING  0x7f38caa68440 Application has started
+21.03.2021 09:55:29.904 0 DEBUG    0x7fc42ea78440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:55:29.904 0 DEBUG    0x7fc42ea78440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:55:29.904 0 DEBUG    0x7fc42ea78440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:55:29.904 0 DEBUG    0x7fc42ea78440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:55:29.904 0 DEBUG    0x7fc42ea78440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:55:29.905 0 DEBUG    0x7fc42ea78440 RequestMapper: created
+21.03.2021 09:55:50.200 0 DEBUG    0x7fae9fe56440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 09:55:50.200 0 DEBUG    0x7fae9fe56440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 09:55:50.200 0 DEBUG    0x7fae9fe56440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 09:55:50.200 0 DEBUG    0x7fae9fe56440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 09:55:50.200 0 DEBUG    0x7fae9fe56440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 09:55:50.200 0 DEBUG    0x7fae9fe56440 RequestMapper: created
+21.03.2021 09:55:50.200 0 DEBUG    0x7fae9fe56440 HttpListener: Listening on port 8080
+21.03.2021 09:55:50.200 1 WARNING  0x7fae9fe56440 Application has started
+21.03.2021 09:55:55.206 0 DEBUG    0x7fae9fe56440 HttpListener: New connection
+21.03.2021 09:55:55.206 0 DEBUG    0x7fae9fe56440 HttpConnectionHandler (0x55f9a71d5040): thread started
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fe56440 HttpConnectionHandler (0x55f9a71d5040): constructed
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): handle new connection
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): read input
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: read request
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: from ::1: GET / HTTP/1.1
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: received header host: localhost:8080
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: received header user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: received header accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: received header accept-language: de,en-US;q=0.7,en;q=0.3
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: received header accept-encoding: gzip, deflate
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: received header dnt: 1
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: received header authorization: Basic dGVzdDpibGE=
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: received header connection: keep-alive
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: received header cookie: sessionid={dba873d1-d1ec-4821-b6b3-2a398a82bf1c}
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: received header upgrade-insecure-requests: 1
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: headers completed
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: expect no body
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: extract and decode request parameters
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: extract cookies
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpRequest: found cookie sessionid={dba873d1-d1ec-4821-b6b3-2a398a82bf1c}
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): received request
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 RequestMapper: path=/
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 StaticFileController: Cache miss for /
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 StaticFileController: Open file /home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot//index.html
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 RequestMapper: finished request
+21.03.2021 09:55:55.207 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): finished request
+21.03.2021 09:55:55.338 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): read input
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: read request
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: from ::1: GET /Schmetterling%20klein.png HTTP/1.1
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: received header host: localhost:8080
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: received header user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: received header accept: image/webp,*/*
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: received header accept-language: de,en-US;q=0.7,en;q=0.3
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: received header accept-encoding: gzip, deflate
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: received header dnt: 1
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: received header authorization: Basic dGVzdDpibGE=
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: received header connection: keep-alive
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: received header referer: http://localhost:8080/
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: received header cookie: sessionid={dba873d1-d1ec-4821-b6b3-2a398a82bf1c}
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: headers completed
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: expect no body
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: extract and decode request parameters
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: extract cookies
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpRequest: found cookie sessionid={dba873d1-d1ec-4821-b6b3-2a398a82bf1c}
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): received request
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 RequestMapper: path=/Schmetterling klein.png
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 StaticFileController: Cache miss for /Schmetterling klein.png
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 StaticFileController: Open file /home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot/Schmetterling klein.png
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 RequestMapper: finished request
+21.03.2021 09:55:55.339 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): finished request
+21.03.2021 09:55:56.978 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): read input
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: read request
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: from ::1: GET /login HTTP/1.1
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header host: localhost:8080
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header accept-language: de,en-US;q=0.7,en;q=0.3
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header accept-encoding: gzip, deflate
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header dnt: 1
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header authorization: Basic dGVzdDpibGE=
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header connection: keep-alive
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header referer: http://localhost:8080/
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header cookie: sessionid={dba873d1-d1ec-4821-b6b3-2a398a82bf1c}
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: received header upgrade-insecure-requests: 1
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: headers completed
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: expect no body
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: extract and decode request parameters
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: extract cookies
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpRequest: found cookie sessionid={dba873d1-d1ec-4821-b6b3-2a398a82bf1c}
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): received request
+21.03.2021 09:55:56.979 0 DEBUG    0x7fae9fb15700 RequestMapper: path=/login
+21.03.2021 09:55:56.979 4 INFO     0x7fae9fb15700 Request from test:bla
+21.03.2021 09:55:56.980 0 DEBUG    0x7fae9fb15700 RequestMapper: finished request
+21.03.2021 09:55:56.980 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): finished request
+21.03.2021 09:56:57.144 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): read timeout occured
+21.03.2021 09:56:57.145 0 DEBUG    0x7fae9fb15700 HttpConnectionHandler (0x55f9a71d5040): disconnected
+21.03.2021 10:08:33.037 0 DEBUG    0x7f54383db440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:08:33.037 0 DEBUG    0x7f54383db440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:08:33.037 0 DEBUG    0x7f54383db440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:08:33.037 0 DEBUG    0x7f54383db440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:08:33.037 0 DEBUG    0x7f54383db440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:08:33.037 0 DEBUG    0x7f54383db440 RequestMapper: created
+21.03.2021 10:08:33.037 0 DEBUG    0x7f54383db440 HttpListener: Listening on port 8080
+21.03.2021 10:08:33.037 1 WARNING  0x7f54383db440 Application has started
+21.03.2021 10:08:57.707 0 DEBUG    0x7fa896b48440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:08:57.707 0 DEBUG    0x7fa896b48440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:08:57.707 0 DEBUG    0x7fa896b48440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:08:57.707 0 DEBUG    0x7fa896b48440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:08:57.707 0 DEBUG    0x7fa896b48440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:08:57.707 0 DEBUG    0x7fa896b48440 RequestMapper: created
+21.03.2021 10:08:57.707 0 DEBUG    0x7fa896b48440 HttpListener: Listening on port 8080
+21.03.2021 10:08:57.707 1 WARNING  0x7fa896b48440 Application has started
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpConnectionHandler (0x55bb43349d20): handle new connection
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpConnectionHandler (0x55bb43349d20): read input
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: read request
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: from ::1: GET /login HTTP/1.1
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header host: localhost:8080
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header accept-language: de,en-US;q=0.7,en;q=0.3
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header accept-encoding: gzip, deflate
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header referer: http://localhost:8080/
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header dnt: 1
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header authorization: Basic dGVzdDpibGE=
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header connection: keep-alive
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header upgrade-insecure-requests: 1
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: received header cache-control: max-age=0
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: headers completed
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: expect no body
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: extract and decode request parameters
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpRequest: extract cookies
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 HttpConnectionHandler (0x55bb43349d20): received request
+21.03.2021 10:09:01.651 0 DEBUG    0x7fa896807700 RequestMapper: path=/login
+21.03.2021 10:09:01.651 4 INFO     0x7fa896807700 Request from test:bla
+21.03.2021 10:10:14.956 0 DEBUG    0x7f4944daf440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:10:14.956 0 DEBUG    0x7f4944daf440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:10:14.956 0 DEBUG    0x7f4944daf440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:10:14.956 0 DEBUG    0x7f4944daf440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:10:14.956 0 DEBUG    0x7f4944daf440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:10:14.956 0 DEBUG    0x7f4944daf440 RequestMapper: created
+21.03.2021 10:10:14.956 0 DEBUG    0x7f4944daf440 HttpListener: Listening on port 8080
+21.03.2021 10:10:14.956 1 WARNING  0x7f4944daf440 Application has started
+21.03.2021 10:12:07.454 0 DEBUG    0x7f6573a3a440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:12:07.454 0 DEBUG    0x7f6573a3a440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:12:07.454 0 DEBUG    0x7f6573a3a440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:12:07.454 0 DEBUG    0x7f6573a3a440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:12:07.454 0 DEBUG    0x7f6573a3a440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:12:07.455 0 DEBUG    0x7f6573a3a440 RequestMapper: created
+21.03.2021 10:12:07.455 0 DEBUG    0x7f6573a3a440 HttpListener: Listening on port 8080
+21.03.2021 10:12:07.455 1 WARNING  0x7f6573a3a440 Application has started
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpConnectionHandler (0x55cbe9025d20): handle new connection
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpConnectionHandler (0x55cbe9025d20): read input
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: read request
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: from ::1: GET /login HTTP/1.1
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header host: localhost:8080
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header accept-language: de,en-US;q=0.7,en;q=0.3
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header accept-encoding: gzip, deflate
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header referer: http://localhost:8080/
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header dnt: 1
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header authorization: Basic dGVzdDpibGE=
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header connection: keep-alive
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header upgrade-insecure-requests: 1
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: received header cache-control: max-age=0
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: headers completed
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: expect no body
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: extract and decode request parameters
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpRequest: extract cookies
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 HttpConnectionHandler (0x55cbe9025d20): received request
+21.03.2021 10:12:09.844 0 DEBUG    0x7f65736f9700 RequestMapper: path=/login
+21.03.2021 10:12:09.844 4 INFO     0x7f65736f9700 Request from test:bla
+21.03.2021 10:14:44.583 0 DEBUG    0x7f9cb7344440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:14:44.583 0 DEBUG    0x7f9cb7344440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:14:44.583 0 DEBUG    0x7f9cb7344440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:14:44.583 0 DEBUG    0x7f9cb7344440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:14:44.583 0 DEBUG    0x7f9cb7344440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:14:44.583 0 DEBUG    0x7f9cb7344440 RequestMapper: created
+21.03.2021 10:14:44.583 0 DEBUG    0x7f9cb7344440 HttpListener: Listening on port 8080
+21.03.2021 10:14:44.583 1 WARNING  0x7f9cb7344440 Application has started
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpConnectionHandler (0x55ff80873d20): handle new connection
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpConnectionHandler (0x55ff80873d20): read input
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: read request
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: from ::1: GET /login HTTP/1.1
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header host: localhost:8080
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header accept-language: de,en-US;q=0.7,en;q=0.3
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header accept-encoding: gzip, deflate
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header referer: http://localhost:8080/
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header dnt: 1
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header authorization: Basic dGVzdDpibGE=
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header connection: keep-alive
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header upgrade-insecure-requests: 1
+21.03.2021 10:14:54.011 0 DEBUG    0x7f9cb7003700 HttpRequest: received header cache-control: max-age=0
+21.03.2021 10:14:54.012 0 DEBUG    0x7f9cb7003700 HttpRequest: headers completed
+21.03.2021 10:14:54.012 0 DEBUG    0x7f9cb7003700 HttpRequest: expect no body
+21.03.2021 10:14:54.012 0 DEBUG    0x7f9cb7003700 HttpRequest: extract and decode request parameters
+21.03.2021 10:14:54.012 0 DEBUG    0x7f9cb7003700 HttpRequest: extract cookies
+21.03.2021 10:14:54.012 0 DEBUG    0x7f9cb7003700 HttpConnectionHandler (0x55ff80873d20): received request
+21.03.2021 10:14:54.012 0 DEBUG    0x7f9cb7003700 RequestMapper: path=/login
+21.03.2021 10:14:54.012 4 INFO     0x7f9cb7003700 Request from test:bla
+21.03.2021 10:16:12.922 0 DEBUG    0x7ffff495b440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:17:07.403 0 DEBUG    0x7ffff495b440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:17:08.571 0 DEBUG    0x7ffff495b440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:17:09.364 0 DEBUG    0x7ffff495b440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:17:10.020 0 DEBUG    0x7ffff495b440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:17:10.652 0 DEBUG    0x7ffff495b440 RequestMapper: created
+21.03.2021 10:17:11.313 0 DEBUG    0x7ffff495b440 HttpListener: Listening on port 8080
+21.03.2021 10:17:44.819 1 WARNING  0x7ffff495b440 Application has started
+21.03.2021 10:18:58.201 0 DEBUG    0x7f0122e75440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:18:58.201 0 DEBUG    0x7f0122e75440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:18:58.201 0 DEBUG    0x7f0122e75440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:18:58.201 0 DEBUG    0x7f0122e75440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:18:58.201 0 DEBUG    0x7f0122e75440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:18:58.201 0 DEBUG    0x7f0122e75440 RequestMapper: created
+21.03.2021 10:18:58.201 0 DEBUG    0x7f0122e75440 HttpListener: Listening on port 8080
+21.03.2021 10:18:58.201 1 WARNING  0x7f0122e75440 Application has started
+21.03.2021 10:19:06.443 0 DEBUG    0x7f0122b34700 HttpConnectionHandler (0x5621a4921d20): handle new connection
+21.03.2021 10:19:06.443 0 DEBUG    0x7f0122b34700 HttpConnectionHandler (0x5621a4921d20): read input
+21.03.2021 10:19:06.443 0 DEBUG    0x7f0122b34700 HttpRequest: read request
+21.03.2021 10:19:06.443 0 DEBUG    0x7f0122b34700 HttpRequest: from ::1: GET /login HTTP/1.1
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header host: localhost:8080
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header accept-language: de,en-US;q=0.7,en;q=0.3
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header accept-encoding: gzip, deflate
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header referer: http://localhost:8080/
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header dnt: 1
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header authorization: Basic dGVzdDpibGE=
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header connection: keep-alive
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header upgrade-insecure-requests: 1
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: received header cache-control: max-age=0
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: headers completed
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: expect no body
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: extract and decode request parameters
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpRequest: extract cookies
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 HttpConnectionHandler (0x5621a4921d20): received request
+21.03.2021 10:19:06.444 0 DEBUG    0x7f0122b34700 RequestMapper: path=/login
+21.03.2021 10:19:06.444 4 INFO     0x7f0122b34700 Request from test:bla
+21.03.2021 10:21:00.259 0 DEBUG    0x7f7fad7f5440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:21:00.259 0 DEBUG    0x7f7fad7f5440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:21:00.259 0 DEBUG    0x7f7fad7f5440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:21:00.259 0 DEBUG    0x7f7fad7f5440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:21:00.259 0 DEBUG    0x7f7fad7f5440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:21:00.260 0 DEBUG    0x7f7fad7f5440 RequestMapper: created
+21.03.2021 10:21:00.260 0 DEBUG    0x7f7fad7f5440 HttpListener: Listening on port 8080
+21.03.2021 10:21:00.260 1 WARNING  0x7f7fad7f5440 Application has started
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpConnectionHandler (0x560374c7ad20): handle new connection
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpConnectionHandler (0x560374c7ad20): read input
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: read request
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: from ::1: GET /login HTTP/1.1
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header host: localhost:8080
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header user-agent: Mozilla/5.0 (X11; Linux x86_64; rv:78.0) Gecko/20100101 Firefox/78.0
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header accept-language: de,en-US;q=0.7,en;q=0.3
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header accept-encoding: gzip, deflate
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header referer: http://localhost:8080/
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header dnt: 1
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header authorization: Basic dGVzdDpibGE=
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header connection: keep-alive
+21.03.2021 10:21:13.891 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header upgrade-insecure-requests: 1
+21.03.2021 10:21:13.892 0 DEBUG    0x7f7fad4b4700 HttpRequest: received header cache-control: max-age=0
+21.03.2021 10:21:13.892 0 DEBUG    0x7f7fad4b4700 HttpRequest: headers completed
+21.03.2021 10:21:13.892 0 DEBUG    0x7f7fad4b4700 HttpRequest: expect no body
+21.03.2021 10:21:13.892 0 DEBUG    0x7f7fad4b4700 HttpRequest: extract and decode request parameters
+21.03.2021 10:21:13.892 0 DEBUG    0x7f7fad4b4700 HttpRequest: extract cookies
+21.03.2021 10:21:13.892 0 DEBUG    0x7f7fad4b4700 HttpConnectionHandler (0x560374c7ad20): received request
+21.03.2021 10:21:13.892 0 DEBUG    0x7f7fad4b4700 RequestMapper: path=/login
+21.03.2021 10:21:13.892 4 INFO     0x7f7fad4b4700 Authorization request from test:bla
+21.03.2021 10:21:33.865 0 DEBUG    0x7f347879c440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:21:33.865 0 DEBUG    0x7f347879c440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:21:33.865 0 DEBUG    0x7f347879c440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:21:33.865 0 DEBUG    0x7f347879c440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:21:33.865 0 DEBUG    0x7f347879c440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:21:33.865 0 DEBUG    0x7f347879c440 RequestMapper: created
+21.03.2021 10:21:33.866 0 DEBUG    0x7f347879c440 HttpListener: Listening on port 8080
+21.03.2021 10:21:33.866 1 WARNING  0x7f347879c440 Application has started
+21.03.2021 10:21:43.036 0 DEBUG    0x7ffff495b440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:21:43.532 0 DEBUG    0x7ffff495b440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:21:43.711 0 DEBUG    0x7ffff495b440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:21:43.879 0 DEBUG    0x7ffff495b440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:21:44.053 0 DEBUG    0x7ffff495b440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:21:44.222 0 DEBUG    0x7ffff495b440 RequestMapper: created
+21.03.2021 10:21:44.533 0 DEBUG    0x7ffff495b440 HttpListener: Listening on port 8080
+21.03.2021 10:21:44.731 1 WARNING  0x7ffff495b440 Application has started
+21.03.2021 10:25:27.069 0 DEBUG    0x7fd4eb4a2440 TemplateLoader: path=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/templates, codec=UTF-8
+21.03.2021 10:25:27.069 0 DEBUG    0x7fd4eb4a2440 TemplateCache: timeout=60000, size=1000000
+21.03.2021 10:25:27.069 0 DEBUG    0x7fd4eb4a2440 HttpSessionStore: Sessions expire after 3600000 milliseconds
+21.03.2021 10:25:27.069 0 DEBUG    0x7fd4eb4a2440 StaticFileController: docroot=/home/stefan/Programmierung/Qt/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+21.03.2021 10:25:27.069 0 DEBUG    0x7fd4eb4a2440 StaticFileController: cache timeout=60000, size=1000000
+21.03.2021 10:25:27.069 0 DEBUG    0x7fd4eb4a2440 RequestMapper: created
+21.03.2021 10:25:27.069 0 DEBUG    0x7fd4eb4a2440 HttpListener: Listening on port 8080
+21.03.2021 10:25:27.069 1 WARNING  0x7fd4eb4a2440 Application has started
+06.09.2021 11:25:37.077 0 DEBUG    0x0002f740 TemplateLoader: path=D:/QTProject/QtWebApp/Demo1/etc/templates, codec=UTF-8
+06.09.2021 11:25:37.077 0 DEBUG    0x0002f740 TemplateCache: timeout=60000, size=1000000
+06.09.2021 11:25:37.077 0 DEBUG    0x0002f740 HttpSessionStore: Sessions expire after 3600000 milliseconds
+06.09.2021 11:25:37.077 0 DEBUG    0x0002f740 StaticFileController: docroot=D:/QTProject/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+06.09.2021 11:25:37.077 0 DEBUG    0x0002f740 StaticFileController: cache timeout=60000, size=1000000
+06.09.2021 11:25:37.077 0 DEBUG    0x0002f740 RequestMapper: created
+06.09.2021 11:25:37.119 0 DEBUG    0x0002f740 HttpListener: Listening on port 8080
+06.09.2021 11:25:37.119 1 WARNING  0x0002f740 Application has started
+06.09.2021 11:26:39.007 0 DEBUG    0x00034c90 TemplateLoader: path=D:/QTProject/QtWebApp/Demo1/etc/templates, codec=UTF-8
+06.09.2021 11:26:39.007 0 DEBUG    0x00034c90 TemplateCache: timeout=60000, size=1000000
+06.09.2021 11:26:39.007 0 DEBUG    0x00034c90 HttpSessionStore: Sessions expire after 3600000 milliseconds
+06.09.2021 11:26:39.008 0 DEBUG    0x00034c90 StaticFileController: docroot=D:/QTProject/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+06.09.2021 11:26:39.008 0 DEBUG    0x00034c90 StaticFileController: cache timeout=60000, size=1000000
+06.09.2021 11:26:39.008 0 DEBUG    0x00034c90 RequestMapper: created
+06.09.2021 11:26:39.036 0 DEBUG    0x00034c90 HttpListener: Listening on port 8080
+06.09.2021 11:26:39.036 1 WARNING  0x00034c90 Application has started
+06.09.2021 15:26:50.437 0 DEBUG    0x00025184 TemplateLoader: path=D:/QTProject/QtWebApp/Demo1/etc/templates, codec=UTF-8
+06.09.2021 15:26:50.437 0 DEBUG    0x00025184 TemplateCache: timeout=60000, size=1000000
+06.09.2021 15:26:50.437 0 DEBUG    0x00025184 HttpSessionStore: Sessions expire after 3600000 milliseconds
+06.09.2021 15:26:50.437 0 DEBUG    0x00025184 StaticFileController: docroot=D:/QTProject/QtWebApp/Demo1/etc/docroot, encoding=UTF-8, maxAge=60000
+06.09.2021 15:26:50.437 0 DEBUG    0x00025184 StaticFileController: cache timeout=60000, size=1000000
+06.09.2021 15:26:50.438 0 DEBUG    0x00025184 RequestMapper: created
+06.09.2021 15:26:50.467 0 DEBUG    0x00025184 HttpListener: Listening on port 8080
+06.09.2021 15:26:50.467 1 WARNING  0x00025184 Application has started
