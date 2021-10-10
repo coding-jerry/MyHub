@@ -1,0 +1,2 @@
+D:\jiang\qt1\simpletreemodel2\debug\simpletreemodel2.exe
+D:\jiang\qt1\simpletreemodel2\debug\simpletreemodel2.pdb

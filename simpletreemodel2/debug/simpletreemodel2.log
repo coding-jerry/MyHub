@@ -1,0 +1,5 @@
+﻿  Rcc'ing simpletreemodel.qrc...
+  treeitem.cpp
+D:\jiang\qt1\simpletreemodel2\treeitem.cpp(55): warning C4715: “TreeItem::row”: 不是所有的控件路径都返回值
+  qrc_simpletreemodel.cpp
+  simpletreemodel2.vcxproj -> D:\jiang\qt1\simpletreemodel2\debug\simpletreemodel2.exe
