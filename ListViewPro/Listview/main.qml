@@ -135,9 +135,23 @@ Window{
             Button{
                 text: "Add new path";
                 onClicked: {
-                    listViewObj.model.textInsertRows(listViewObj.count,1);
+                    console.log("count >> ",listViewObj.count);
+                    if(inputObj.text !== "")
+                        listViewObj.model.textInsertRows(listViewObj.count,1,inputObj.text);
                 }
                 Layout.fillWidth :true;
+            }
+            Rectangle{
+                width: 40;
+                height: 20;
+                color: "lightGray"
+                TextField{
+                    id:inputObj
+                    onTextChanged:{
+                        if(inputObj.text !== "")
+                            listViewObj.model.textInsertRows(listViewObj.count,1,inputObj.text);
+                    }
+                }
             }
             Button{
                 text: "Remove item";

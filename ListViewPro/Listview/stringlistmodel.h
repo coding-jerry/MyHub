@@ -34,7 +34,7 @@ public:
     bool insertRows(int position,int rows,const QModelIndex &parent = QModelIndex()) override;
     bool removeRows(int position,int rows,const QModelIndex &parent = QModelIndex()) override;
 
-    Q_INVOKABLE bool textInsertRows(int position,int rows);
+    Q_INVOKABLE bool textInsertRows(int position,int rows,QVariant text);
     Q_INVOKABLE bool textRemoveRows(int position,int rows);
 
 protected:

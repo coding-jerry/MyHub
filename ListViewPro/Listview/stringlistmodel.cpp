@@ -173,8 +173,9 @@ bool StringListModel::removeRows(int position, int rows, const QModelIndex &pare
     return retResult;
 }
 
-bool StringListModel::textInsertRows(int position, int rows)
+bool StringListModel::textInsertRows(int position, int rows,QVariant text)
 {
+    newFilesList->insert(position,text.toString());
     return insertRows(position,rows);
 }
 
