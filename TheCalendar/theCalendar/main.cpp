@@ -1,10 +1,10 @@
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
-
+#include "TheCalendar.h"
 int main(int argc, char *argv[])
 {
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
-
+    TheCalendar *thcda = new TheCalendar();
     QGuiApplication app(argc, argv);
 
     QQmlApplicationEngine engine;
